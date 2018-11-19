@@ -15,9 +15,9 @@ GitHub and file an
 
 ## Pre requisites
 
-- Maven
+- Internet
 - JDK8+
-- GlassFish 5
+- TomCat v9+
 
 ## Build the examples
 
